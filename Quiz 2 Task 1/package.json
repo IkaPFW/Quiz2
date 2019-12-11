@@ -1,0 +1,14 @@
+{
+  "name": "q2t1",
+  "version": "1.0.0",
+  "description": "Quiz 2 Task 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ika PFW",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
